@@ -7,6 +7,9 @@
 -- Run composer dump-autoload
 
 -- The library can be used this way for example;
+
+    <?php
+
 	require_once 'vendor/autoload.php';
 
 	use Kaythinks\Goodthoughts;
