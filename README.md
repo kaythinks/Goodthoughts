@@ -1,4 +1,4 @@
-# This package was designed to assist developers.
+# This package was designed to boost developers morale while coding.
 
 # A good thought is generated each time the static method generateThought() is called.
 
